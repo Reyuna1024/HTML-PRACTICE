@@ -6,6 +6,10 @@
 
 }
 
+#game{
+    width: 300px;
+}
+
 #pizza{
     height:300px;
     width: 400px;
