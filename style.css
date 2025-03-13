@@ -17,9 +17,10 @@
 }
 
 body{
-    /*background-color: rgb(0,0,0);*/
-    background-image:url(https://th.bing.com/th/id/R.c2181265870ed35f75ccd360dbbc96fe?rik=0%2bbKQH0rUgY7ng&riu=http%3a%2f%2fentertainmentmesh.com%2fwp-content%2fuploads%2f2016%2f01%2fdeep-red-rose.jpg&ehk=YLV5wUtEhLDmYLh0HTadrFeycZzVG4vovl7lmjbakz0%3d&risl=&pid=ImgRaw&r=0)
-}
+    
+    /*background-image:url("https://wallpapercave.com/wp/wp11317705.jpg"); */
+    background-color: blueviolet;
+    }
 
 h1{
 
