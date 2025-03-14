@@ -18,20 +18,31 @@
 
 body{
     
-    /*background-image:url("https://wallpapercave.com/wp/wp11317705.jpg"); */
+    background-image:url("https://wallpapercave.com/wp/wp11317705.jpg");
     background-color: blueviolet;
-    }
+    position: absolute;
+}
+    
 
 h1{
 
-    color: rgb(131,93,103);
+    color: rgb(247, 0, 0);
 }
 
 p{
-    color: rgb(131,93,103);
+    color: rgb(247,00,00);
 }
-
 .college{
     width: 200px;
     height:200px;
+}
+.phone-container {
+    position:relative;
+    top: 10%;
+    width: 200px;
+    height: 200px;
+}
+#phone{
+    position: relative;
+    left: 70%;
 }
