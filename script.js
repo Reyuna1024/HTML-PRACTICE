@@ -5,7 +5,7 @@ let pizzahut="https://wallpaperaccess.com/full/3189291.jpg";
 
 let foods =[burger, chicken, cburger,pizzahut];
 
-
+console.log(foods);
 function changeImg()
 {
     let index = Math.floor(Math.random()*4);
